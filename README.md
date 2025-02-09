@@ -75,7 +75,7 @@ Built **3 NN models** of varying complexity for different use cases:
 
 ---
 
-### **5️⃣ Extra Credit: NLP for Track & Artist Names**  
+### **5️⃣ NLP for Track & Artist Names**  
 To leverage text features, I vectorized track & artist names using **SpaCy embeddings** (300D each).  
 
 #### 🏗 **Final Word-Feature Models**  
